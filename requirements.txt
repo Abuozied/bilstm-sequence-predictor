@@ -1,0 +1,6 @@
+streamlit
+torch
+nltk
+emoji
+pandas
+numpy
